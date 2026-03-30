@@ -1,8 +1,8 @@
 {
-  "prompt": "A 19th-century naturalist scientific illustration depicting a rolling landscape of hills and valleys, rendered with fine ink linework and delicate watercolor washes. Multiple small paths descend from different points on the hills, each path marked by subtle footprints or worn trails, all converging toward the lowest valley basin. The terrain is carefully cross-hatched, with botanical details like grasses and small plants drawn in precise observational style. Composition resembles a field study plate, with layered terrain showing gradual descent. Soft earthy tones, muted greens and browns, parchment-like background texture. Emphasize directional flow downward across the terrain. No text, no labels, no numbers, no symbols.",
+  "prompt": "A detailed 19th-century naturalist scientific illustration, plate composition, 2048x2048 resolution. A cross-sectional landscape of rolling hills and valleys, rendered with fine ink linework, delicate cross-hatching, and muted watercolor washes in earthy greens and browns. Multiple small paths descend from different elevations along the hillsides, each path marked subtly by worn trails or footprints, all converging toward the lowest central basin. The terrain is carefully observed with botanical elements such as grasses and small plants drawn in precise naturalist style. Composition resembles a field study plate with layered terrain and directional flow downward. Parchment-like background texture, minimal shading gradients, hand-drawn precision. No text, no labels, no numbers, no symbols. Ensure ultra high resolution, minimum 2048px on both dimensions, crisp linework, historically accurate illustration style.",
   "model": "Gemini 2.0 Flash Image (Nano Banana)",
-  "concept": "Gradient Descent",
+  "concept": "gradient descent",
   "tradition_name": "19th-century naturalist scientific illustration",
   "tradition_period": "1800s",
-  "tradition_approach": "Fine ink linework, cross-hatching, muted watercolor washes, observational botanical detail, and plate-like composition to mimic scientific field illustrations while embedding directional descent."
+  "tradition_approach": "Fine ink linework, cross-hatching, muted watercolor washes, and observational botanical detail arranged as a scientific plate to mirror naturalist illustration while embedding directional descent."
 }
